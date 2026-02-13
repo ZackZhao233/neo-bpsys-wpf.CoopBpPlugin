@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.4.11506.43 insiders
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "neo-bpsys-wpf.CoopBpPlugin", "neo-bpsys-wpf.CoopBpPlugin.csproj", "{C58CE62E-0DD1-E373-DF05-6E7B5003FFE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Beta|Any CPU = Beta|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C58CE62E-0DD1-E373-DF05-6E7B5003FFE0}.Beta|Any CPU.ActiveCfg = Beta|Any CPU
+		{C58CE62E-0DD1-E373-DF05-6E7B5003FFE0}.Beta|Any CPU.Build.0 = Beta|Any CPU
+		{C58CE62E-0DD1-E373-DF05-6E7B5003FFE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C58CE62E-0DD1-E373-DF05-6E7B5003FFE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C58CE62E-0DD1-E373-DF05-6E7B5003FFE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C58CE62E-0DD1-E373-DF05-6E7B5003FFE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {650407F1-3154-418A-8EB0-6B53C65D313E}
+	EndGlobalSection
+EndGlobal
